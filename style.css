@@ -1,5 +1,5 @@
 body {
-    background-image: url("img/pexels.jpg");
+    background-image: url("pexels.jpg");
     background-size: 100%;
     background-position: fixed;
     background-repeat: no-repeat;       
@@ -18,7 +18,7 @@ p{
     line-height: .6em;
 }
 li {
-    list-style-image: url("img/plus.png");
+    list-style-image: url("plus.png");
     line-height: 1.6em;
 }
 
